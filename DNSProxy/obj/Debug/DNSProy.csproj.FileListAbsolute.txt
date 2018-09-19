@@ -1,0 +1,12 @@
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\DNSProy.exe.config
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\DNSProy.exe
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\DNSProy.pdb
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\ARSoft.Tools.Net.dll
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\ARSoft.Tools.Net.xml
+E:\Project\DNSProxy\DNSProy\DNSProy\obj\Debug\DNSProy.csproj.CoreCompileInputs.cache
+E:\Project\DNSProxy\DNSProy\DNSProy\obj\Debug\DNSProy.exe
+E:\Project\DNSProxy\DNSProy\DNSProy\obj\Debug\DNSProy.pdb
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\JsonConfig.dll
+E:\Project\DNSProxy\DNSProy\DNSProy\bin\Debug\JsonFx.dll
+E:\Project\DNSProxy\DNSProy\DNSProy\obj\Debug\DNSProy.csprojResolveAssemblyReference.cache
