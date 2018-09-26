@@ -96,21 +96,27 @@ namespace DNSProxy
             if (string.IsNullOrEmpty(IP))
                 return;
 
-            Ping PNG = new Ping();
-            PingReply PNGRPLY = PNG.Send(IP, 2000);
-
-            if (PNGRPLY.Status == IPStatus.Success)
+            try
             {
-                if (!IsWork)
-                    Console.WriteLine(Name + " Working");
+                Ping PNG = new Ping();
+                PingReply PNGRPLY = PNG.Send(IP, 2000);
 
-                IsWork = true;
+                if (PNGRPLY.Status == IPStatus.Success)
+                {
+                    //if (!IsWork)
+                        //Console.WriteLine(Name + " Working");
+
+                    IsWork = true;
+                }
+                else
+                {
+                    IsWork = false;
+                    //ConsoleWriter.ConsoleWriteMonitoring(Name + " Can't Working!!!!");
+                    //Console.WriteLine(Name + " Can't Working!!!!");
+                   
+                }
             }
-            else
-            {
-                IsWork = false;
-                Console.WriteLine(Name + " Can't Working!!!!");
-            }
+            catch { }
 
         }
         #endregion

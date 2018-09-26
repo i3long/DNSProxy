@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("DNSProxy")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("g@i3long.cn")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("i3long.cn")]
 [assembly: AssemblyProduct("DNSProxy")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2018  i3long.cn")]
+[assembly: AssemblyTrademark("i3long.cn")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 会使此程序集中的类型
